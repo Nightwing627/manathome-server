@@ -1,0 +1,23 @@
+Installation:
+* Copy this phpspellcheck folder to the root of your website (/phpspellcheck/)
+
+Use:
+#PHP Source Code
+require "/phpspellcheck/include.php";  //edit this path if necessary
+
+$mySpell = new SpellCheckButton();
+$mySpell->InstallationPath = "/phpspellcheck/";
+$mySpell->Fields = "ALL";
+echo $mySpell->SpellImageButton();
+
+$mySpell = new SpellAsYouType();
+$mySpell->InstallationPath = "/phpspellcheck/";
+$mySpell->Fields = "ALL";
+echo $mySpell->Activate();
+
+
+Documentation:
+http://www.phpspellcheck.com/Category:Documentation
+
+Support By Email:
+Email support@phpspellcheck.com if you need help integrating PHP Spell Check.

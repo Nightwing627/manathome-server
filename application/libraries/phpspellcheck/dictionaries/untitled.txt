@@ -1,0 +1,10 @@
+TinyMCE SPellChecker Plugin  -  JavaScriptSpellcheck
+
+TinyMCE is an outstanding HTML editor used in CMS systems, websites and many web popular platforms including wordpress. 
+
+Tinymce's spellchecker is no longer operational.Y inyMCE's spellchecker was provided by 'hacking' a Chrome toolbar API ownded by google - auains thair own legal usage policies. This spellchecking service has been discontinued. The alternative was using a PHP module called P_Spell.  Although this sounds promising, almost noone actually has P_Spell installed, and doing so often required re-compiling php from its source code. 
+
+
+JavaScriptSpellcheck is the industry leading spellchecker plugin for websites and secure intranets. It  has been developerd to work as a Tinymce Spellchecker plugin which can run without the above problems, and on almost any hosting platform.  This includes Apack, nGineX and Microsoft IIS.
+
+This spellchecker benefits from over 30 international dictionaries as standard, and includes terms which are 
